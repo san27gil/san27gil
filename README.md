@@ -1,7 +1,23 @@
-### Hi there 👋
+## Hi there, I'm Santi Gil 👋
 
+### I'm a investor, coder and passionated about both economy and computer science!
+I'm a BBA graduated and {}. Before that I was in the financial sector, working on both front and back office in companies such as Banco Santander or BBVA. 
+
+<br>
 <a href="https://www.linkedin.com/in/santigilmos/">
-  <img align="left" alt="Adarshreddyash LinkdeIN" width="22px" src="https://github.com/san27gil/san27gil/blob/20917070fbed8ebeaa3767d8e39a6f6246bd082c/img/linkedin.png" />
+  <img align="left" alt="Santi Gil Linkedin" width="22px" src="https://github.com/san27gil/san27gil/blob/f3c768609cf96dc388150b48c6b1d276721a7b60/img/linkedin-2.png" />
+</a>
+
+<a href="https://santigil.substack.com/">
+  <img align="left" alt="Santi Gil Substack" width="22px" src="https://github.com/san27gil/san27gil/blob/f3c768609cf96dc388150b48c6b1d276721a7b60/img/blogging.png" />
+</a>
+
+<a href="https://stackoverflow.com/users/17916385/santi-gil">
+  <img align="left" alt="Santi Gil Stack Overflow" width="22px" src="https://github.com/san27gil/san27gil/blob/f3c768609cf96dc388150b48c6b1d276721a7b60/img/stack-overflow.png" />
+</a>
+
+<a href="https://www.instagram.com/san27gil/">
+  <img align="left" alt="Santi Gil Instagram" width="22px" src="https://github.com/san27gil/san27gil/blob/f3c768609cf96dc388150b48c6b1d276721a7b60/img/instagram-2.png" />
 </a>
 
 <!--
