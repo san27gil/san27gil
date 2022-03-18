@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/santigilmos/">
+  <img align="left" alt="Adarshreddyash LinkdeIN" width="22px" src="https://github.com/san27gil/san27gil/blob/20917070fbed8ebeaa3767d8e39a6f6246bd082c/img/linkedin.png" />
+</a>
+
 <!--
 **san27gil/san27gil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
