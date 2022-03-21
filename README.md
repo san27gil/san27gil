@@ -1,6 +1,6 @@
 ## Hi there, I'm Santi Gil 👋
 
-### I'm a coder, investor and passionated about both economy and computer science!
+### I'm a coder, private investor and passionated about both economy and computer science!
 I'm a BBA graduated and {}. Before that I was in the financial sector, working on both front and back office in companies such as Banco Santander or BBVA. 
 
 <a href="https://www.linkedin.com/in/santigilmos/">
