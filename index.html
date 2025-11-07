@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mi WebApp Gratis</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = { darkMode: 'class' }
+  </script>
+</head>
+<body class="bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100 min-h-screen flex items-center justify-center">
+  <div class="text-center p-10">
+    <h1 class="text-6xl font-bold mb-4">¡MI WEBAPP ESTÁ ONLINE! 🚀</h1>
+    <p class="text-2xl mb-8">Desplegada 100% GRATIS con GitHub + Cloudflare</p>
+    
+    <button id="darkToggle" class="bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-3 px-8 rounded-lg text-xl">
+      🌙 Cambiar a modo oscuro
+    </button>
+
+    <p class="mt-10 text-lg">
+      Backend Python listo en: <code class="bg-gray-800 text-green-400 px-2 py-1 rounded">/api/hello</code>
+    </p>
+  </div>
+
+  <script>
+    // Dark mode toggle
+    const btn = document.getElementById('darkToggle');
+    btn.addEventListener('click', () => {
+      document.body.classList.toggle('dark');
+      btn.textContent = document.body.classList.contains('dark') ? '☀️ Modo claro' : '🌙 Modo oscuro';
+    });
+  </script>
+</body>
+</html>
