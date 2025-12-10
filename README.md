@@ -23,6 +23,10 @@ I'm a BBA graduated. Before that I was in the financial sector, working on both 
   <img align="left" alt="Santi Gil GoodReads" width="22px" src="https://github.com/san27gil/san27gil/blob/e6ac45b72d29f908ad5cfa1d26dcd83ac0f940b8/img/goodreads.png" />
 </a>
 
+<a href="https://www.x.com/_santi_gil">
+  <img align="left" alt="Santi Gil X" width="22px" src="https://github.com/san27gil/san27gil/blob/e6ac45b72d29f908ad5cfa1d26dcd83ac0f940b8/img/x-logo.png" />
+</a>
+
 
 <!--
 **san27gil/san27gil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
