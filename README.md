@@ -24,7 +24,7 @@ I'm a BBA graduated. Before that I was in the financial sector, working on both 
 </a>
 
 <a href="https://www.x.com/_santi_gil">
-  <img align="left" alt="Santi Gil X" width="22px" src="https://github.com/san27gil/san27gil/blob/e6ac45b72d29f908ad5cfa1d26dcd83ac0f940b8/img/x-logo.png" />
+  <img align="left" alt="Santi Gil X" width="22px" src="https://github.com/san27gil/san27gil/blob/4ef423cba5e868d27936c9c335cc7d5d34cf36f0/img/x-logo.png" />
 </a>
 
 
