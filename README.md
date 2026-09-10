@@ -1,7 +1,8 @@
-## Hi there, I'm Santi Gil 👋
+### Hola, soy Santi 👋
 
-### I'm a coder, private investor and passionated about both economy and computer science!
-I'm a BBA graduated. Before that I was in the financial sector, working on both front and back office in companies such as Banco Santander or BBVA. 
+Graduado en ADE y programador autodidacta, me interesa donde se cruzan las finanzas y la tecnología.
+
+Empecé en banca (Banco Santander, BBVA, entre otras...). Actualmente trabajo en una empresa de asesoramiento financiero, combinando análisis de inversión con gestión y cumplimiento normativo.
 
 <a href="https://www.linkedin.com/in/santigilmos/">
   <img align="left" alt="Santi Gil Linkedin" width="22px" src="https://github.com/san27gil/san27gil/blob/f3c768609cf96dc388150b48c6b1d276721a7b60/img/linkedin-2.png" />
